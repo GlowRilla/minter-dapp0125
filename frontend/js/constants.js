@@ -1,9 +1,9 @@
 const contractAddress = "0xC3FC9cB61bE1c5c32D18777d85ED6358d04eE116"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the GlowRillas NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The GlowRillas is a fun and simple limited collection of 5000 NFTs that are part of a project to help raise awareness about gorillas and wildlife sanctuaries around the world. Each NFT will provide additional support to a wildlife sanctuary. 10% of all primary sales are donated to charity.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
